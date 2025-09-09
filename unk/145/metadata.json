@@ -1,0 +1,18 @@
+{
+  "name": "Yieldy Hamster #145",
+  "description": "Yieldy Hamster NFT #145 - Epic rarity with +150$.png image",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Image",
+      "value": "+150$.png"
+    },
+    {
+      "trait_type": "Index",
+      "value": "145"
+    }
+  ]
+}
