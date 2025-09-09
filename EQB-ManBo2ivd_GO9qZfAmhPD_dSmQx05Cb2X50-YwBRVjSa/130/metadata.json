@@ -1,0 +1,18 @@
+{
+  "name": "Yieldy Hamster #130",
+  "description": "Yieldy Hamster NFT #130 - Uncommon rarity with +12$.png image",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Image",
+      "value": "+12$.png"
+    },
+    {
+      "trait_type": "Index",
+      "value": "130"
+    }
+  ]
+}
