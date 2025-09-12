@@ -1,7 +1,7 @@
 {
   "name": "Yieldy Hamster Collection",
   "description": "A collection of unique Yieldy Hamster NFTs with different rarities and traits",
-  "image": "collection-image.webp",
+  "image": "https://raw.githubusercontent.com/coin-unknown/nft-metadata/main/unk/collection-image.webp",
   "external_url": "https://getgems.io",
   "attributes": [
     {
