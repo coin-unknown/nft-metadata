@@ -1,0 +1,20 @@
+{
+  "name": "Yieldy Hamster Rare #012",
+  "description": "Yieldy Hamster NFT #12 - Rare rarity with +25$.webp image",
+  "image": "12/+25$.webp",
+  "external_url": "https://getgems.io",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Image",
+      "value": "+25$.webp"
+    },
+    {
+      "trait_type": "Index",
+      "value": "12"
+    }
+  ]
+}
