@@ -1,0 +1,20 @@
+{
+  "name": "Yieldy Hamster #004",
+  "description": "Yieldy Hamster NFT #4 - Common rarity with +2$.webp image",
+  "image": "4/+2$.webp",
+  "external_url": "https://getgems.io",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Image",
+      "value": "+2$.webp"
+    },
+    {
+      "trait_type": "Index",
+      "value": "4"
+    }
+  ]
+}
