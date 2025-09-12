@@ -1,8 +1,16 @@
 {
-  "name": "Yieldy Hamster Collection",
-  "description": "A collection of unique Yieldy Hamster NFTs with different rarities and traits",
+  "name": "Yieldy Hamsters",
+  "description": "From the team behind Unknown Coin comes Yieldy Hamsters — a playful pixel-art NFT collection built on the Own to Earn concept. Each card displays your monthly reward (e.g. +5$/mo) and grants passive income secured by the team's proven DeFi utilities. With retro 8-bit art, unique rarity tiers, and real yield mechanics, Yieldy Hamsters combine collectible fun with sustainable rewards. Collect, earn, and spin the wheel of income!\n\nRewards are distributed on the 1st day of each month.\n\nАfter 6 months from the initial sale the team commits to buying back each NFT at its original price.",
   "image": "https://raw.githubusercontent.com/coin-unknown/nft-metadata/main/unk/collection-image.webp",
-  "external_url": "https://getgems.io",
+  "cover_image": "https://raw.githubusercontent.com/coin-unknown/nft-metadata/main/unk/collection-image.webp",
+  "marketplace": "getgems.io",
+  "external_url": "https://getgems.io/collection/EQCKj4bgwk5Nedr8D3o3QStGYQu3MH1IayBGPaTT-us6se6Q",
+  "social_links": [
+    "https://x.com/unk_coin",
+    "https://t.me/earn_unk_now",
+    "https://github.com/coin-unknown/"
+  ],
+  "external_link": null,
   "attributes": [
     {
       "trait_type": "Collection Type",
@@ -15,6 +23,18 @@
     {
       "trait_type": "Standard",
       "value": "TEP-62"
+    },
+    {
+      "trait_type": "Marketplace",
+      "value": "getgems.io"
+    },
+    {
+      "trait_type": "Reward System",
+      "value": "Own to Earn"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Retro 8-bit"
     }
   ]
 }
