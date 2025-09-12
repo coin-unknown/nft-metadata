@@ -1,0 +1,20 @@
+{
+  "name": "Yieldy Hamster Epic #010",
+  "description": "Yieldy Hamster NFT #10 - Epic rarity with +100$.webp image",
+  "image": "10/+100$.webp",
+  "external_url": "https://getgems.io",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Image",
+      "value": "+100$.webp"
+    },
+    {
+      "trait_type": "Index",
+      "value": "10"
+    }
+  ]
+}
